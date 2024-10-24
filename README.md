@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Sreekumar</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaannn0&label=Profile%20views&color=0e75b6&style=flat" alt="aaannn0" /> </p>
 
